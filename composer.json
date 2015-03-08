@@ -1,0 +1,12 @@
+{
+	"name": "unamatasanatarai/regexrouter",
+	"description": "Regex Routing for PHP experiment",
+	"homepage": "https://github.com/unamatasanatarai/regexrouter",
+	"type": "library",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"RegexRouter\\": "src/RegexRouter"
+		}
+	}
+}
