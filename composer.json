@@ -1,6 +1,6 @@
 {
 	"name": "unamatasanatarai/regexrouter",
-	"description": "Regex Routing for PHP experiment",
+	"description": "Flexible Regex Routing for PHP",
 	"homepage": "https://github.com/unamatasanatarai/regexrouter",
 	"type": "library",
 	"license": "MIT",
